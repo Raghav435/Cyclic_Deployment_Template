@@ -1,14 +1,54 @@
 {
-  "books": [
+  "posts": [
     {
-      "img": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "post": "Hello",
+      "id": 1
+    },
+    {
+      "post": "cats",
+      "id": 2
+    },
+    {
+      "post": "cats",
+      "id": 3
+    },
+    {
+      "post": "dog",
+      "id": 4
+    },
+    {
+      "post": "elephent",
+      "id": 5
+    }
+  ],
+  "Users": [
+    {
+      "name": "abcd",
+      "username": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "avatar": "https://i.pravatar.cc/150?img=55",
+      "id": 1
+    },
+    {
+      "username": "abcd",
+      "password": "1234",
+      "email": "abcd@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "1234",
+      "avatar": "https://i.pravatar.cc/150?img=69",
+      "id": 3
+    },
+    {
+      "username": "abc",
+      "password": "1234",
+      "email": "abc@gmail.com",
+      "id": 4
     }
   ]
 }
