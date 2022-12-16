@@ -47,22 +47,6 @@
       "country": "india",
       "profession": "student",
       "id": 6
-    },
-    {
-      "name": "himanshu",
-      "age": "16",
-      "gender": "male",
-      "country": "india",
-      "profession": "student",
-      "id": 7
-    },
-    {
-      "name": "radha",
-      "age": "19",
-      "gender": "female",
-      "country": "india",
-      "profession": "student",
-      "id": 8
     }
   ]
 }
