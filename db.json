@@ -1,52 +1,40 @@
 {
   "data": [
     {
-      "name": "raju",
-      "age": "24",
-      "gender": "male",
-      "country": "usa",
-      "profession": "Student",
+      "company": "masai",
+      "city": "Banglore",
+      "location": "India",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "fulltime",
+      "position": "FSD",
+      "language": "Javascript",
+      "postedAt": "2022-12-17",
       "id": 1
     },
     {
-      "name": "ram",
-      "age": "26",
-      "gender": "male",
-      "country": "india",
-      "profession": "employed",
+      "company": "myntra",
+      "city": "Delhi",
+      "location": "India",
+      "role": "Backend",
+      "level": "Senior ",
+      "contract": "fulltime",
+      "position": "Backend Developer",
+      "language": "Java",
+      "postedAt": "2022-12-20",
       "id": 2
     },
     {
-      "name": "rs",
-      "age": "25",
-      "gender": "male",
-      "country": "uk",
-      "profession": "employed",
+      "company": "flipcart",
+      "city": "Delhi",
+      "location": "India",
+      "role": "FullStack ",
+      "level": "Senior ",
+      "contract": "fulltime",
+      "position": "FSD ",
+      "language": "Javascript",
+      "postedAt": "2022-12-20",
       "id": 3
-    },
-    {
-      "name": "rks",
-      "age": "17",
-      "gender": "male",
-      "country": "india",
-      "profession": "student",
-      "id": 4
-    },
-    {
-      "name": "renu",
-      "age": "19",
-      "gender": "female",
-      "country": "brazil",
-      "profession": "student",
-      "id": 5
-    },
-    {
-      "name": "raj",
-      "age": "20",
-      "gender": "male",
-      "country": "india",
-      "profession": "student",
-      "id": 6
     }
   ]
 }
